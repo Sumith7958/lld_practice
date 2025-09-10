@@ -1,0 +1,2 @@
+There is class plain pizza which can have topplings as many as possible like onion,tomato,capsicum,chicken,tomato capsicum,ect
+To avoid class explosion Decorative pattern is introduced
